@@ -25,6 +25,6 @@ Généralement, il faut rédiger le Cahiers des charges, les Spécifications Tec
 
 
 C'est un cycle court (sprints de 3/ semaines) et les cycles se succèdent pour aboutir au produit. L'outil est livré petit à petit. On rédige un Backlog (liste itératives des fonctionnalités souhaitées par le client réparties sur chaque sprint). On utilise un panel d'outil : jira, monday, notion, teams, sharepoint. La gestion du code source est très importante, d'où l'utilisation de Git.
-L'idée est d'avoir une continuité de service sur le livrable final, l'aspect DevOps intervient souvent dans la méthode Agile.
+L'idée est d'avoir une continuité de service sur le livrable final, l'aspect DevOps intervient souvent dans la méthode Agile, c'est pourquoi on réalise de nombreux tests d'intégration.
 
 #### TP : Analyse d'une note d'expression de besoin.
