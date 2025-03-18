@@ -45,3 +45,8 @@ FRANCK THUILLIER
 Déscription précise des fonctionnalités de l'outil. Les SF serviront aux déveveloppements et les ST seront amendées après le développement.
 SFD : fianliser et intégrer la description de la fonctionnalité Gestionnaire de couches + définir un nouveau scénario où l'utilisateur rencontre un bug d'affichage d'une couche.<br>
 STD : seules les données commerce, stationnement et arrêt de transport seront stockées dans la BDD, rédiger la description détaillée des couches + décrire rechniquement le fonctionnement de l'analyse spatiale de recherche des stationnements autour d'un commerce avec un paramètre permettant de définir un rayon.
+
+#### II - Méthode Agile
+Méthodologie de gestion de projet basée sur des courtes périodes de développement.
+On peut créer différentes méthodes de gestion de projet sur Jira, on va essayer la méthode Scrum. On peut définir le backlog.
+On va finalement essayer Notion car Jira a bloqué la création d'un site.
