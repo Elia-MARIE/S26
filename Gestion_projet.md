@@ -33,6 +33,7 @@ Outil cartographique web permettant la prise de decision sur l'emplacement d'un 
 - données permettant l'analyse du contexte socio-économique du commerce,
 - statistique démographiques,
 - analyse des contraintes de l'emplacement
+![](UML.png)
 
 # Gestion de projet - 18/03/25
 ## Méthodes de recueil et d'analyse des besoins
