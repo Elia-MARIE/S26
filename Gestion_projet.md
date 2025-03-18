@@ -41,7 +41,7 @@ FRANCK THUILLIER
 <br>
 ### Conception et maintenance d'applications et d'interfaces SIG
 
-#### I - TP : Spécifications techniques et fonctionnelles
+#### I - TP : Spécifications techniques et fonctionnelles détaillées (SFTD)
 Déscription précise des fonctionnalités de l'outil. Les SF serviront aux déveveloppements et les ST seront amendées après le développement.
-SFD : fianliser et intégrer la description de la fonctionnalité Gestionnaire de couches + définir un nouveau scénario où l'utilisateur rencontre un bug d'affichage d'une couche
+SFD : fianliser et intégrer la description de la fonctionnalité Gestionnaire de couches + définir un nouveau scénario où l'utilisateur rencontre un bug d'affichage d'une couche.<br>
 STD : seules les données commerce, stationnement et arrêt de transport seront stockées dans la BDD, rédiger la description détaillée des couches + décrire rechniquement le fonctionnement de l'analyse spatiale de recherche des stationnements autour d'un commerce avec un paramètre permettant de définir un rayon.
