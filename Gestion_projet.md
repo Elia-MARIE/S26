@@ -34,6 +34,13 @@ Outil cartographique web permettant la prise de decision sur l'emplacement d'un 
 - statistique démographiques,
 - analyse des contraintes de l'emplacement
 
+# Gestion de projet - 18/03/25
+## Méthodes de recueil et d'analyse des besoins
+FRANCK THUILLIER
+<br>
+### Conception et maintenance d'applications et d'interfaces SIG
 
-
-
+#### I - TP : Spécifications techniques et fonctionnelles
+Déscription précise des fonctionnalités de l'outil. Les SF serviront aux déveveloppements et les ST seront amendées après le développement.
+SFD : fianliser et intégrer la description de la fonctionnalité Gestionnaire de couches + définir un nouveau scénario où l'utilisateur rencontre un bug d'affichage d'une couche
+STD : seules les données commerce, stationnement et arrêt de transport seront stockées dans la BDD, rédiger la description détaillée des couches + décrire rechniquement le fonctionnement de l'analyse spatiale de recherche des stationnements autour d'un commerce avec un paramètre permettant de définir un rayon.
