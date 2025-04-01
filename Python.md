@@ -42,4 +42,5 @@ Spyder ne se lançait pas, avec des erreurs comme :
    - $ sudo apt install libasound2t64
 <br>
 **Relancer Spyder :**
+
    - $ uv run spyder
