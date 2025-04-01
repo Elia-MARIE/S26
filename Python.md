@@ -28,12 +28,14 @@ MARC DUCOBU
 
 ### Résolution des erreurs Qt et lancement de Spyder avec uv (Debian/Ubuntu)
 *Problème rencontré :*
+<br>
 Spyder ne se lançait pas, avec des erreurs comme :
 - Could not load the Qt platform plugin "xcb"
 - ImportError: libsmime3.so: cannot open shared object file
 - ImportError: libasound.so.2: cannot open shared object file
 <br>
 *Solution complète :*
+<br>
 1. Installer les bibliothèques Qt nécessaires :
    - $ sudo apt install qt5dxcb-plugin libqt5gui5 libqt5core5a libxcb-xinerama0 libgl1
 2. Installer la bibliothèque de sécurité requise :
@@ -42,4 +44,5 @@ Spyder ne se lançait pas, avec des erreurs comme :
    - $ sudo apt install libasound2t64
 <br>
 *Relancer Spyder :*
+<br>
    - $ uv run spyder
