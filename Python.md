@@ -37,12 +37,12 @@ Spyder ne se lançait pas, avec des erreurs comme :
 *Solution complète :*
 <br>
 1. Installer les bibliothèques Qt nécessaires :
-   - $ sudo apt install qt5dxcb-plugin libqt5gui5 libqt5core5a libxcb-xinerama0 libgl1
+- $ sudo apt install qt5dxcb-plugin libqt5gui5 libqt5core5a libxcb-xinerama0 libgl1
 2. Installer la bibliothèque de sécurité requise :
-   - $ sudo apt install libnss3
+- $ sudo apt install libnss3
 3. Installer la bibliothèque audio (version t64) :
-   - $ sudo apt install libasound2t64
+- $ sudo apt install libasound2t64
 <br>
 *Relancer Spyder :*
 <br>
-   - $ uv run spyder
+- $ uv run spyder
