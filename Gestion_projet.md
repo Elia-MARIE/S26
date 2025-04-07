@@ -60,5 +60,18 @@ FRANCK THUILLIER
 #### I - Réseaux informatiques
 Modèle OSI : représentation théorique qui décompe les communications réseaux en 7 couches :
 ![16225671036921_P2C5-2](https://github.com/user-attachments/assets/71f6ba8b-3cab-4087-b481-cd9d350e5e18)
+On utilise une adresse IP qui agit à un identifier unique sur le réseau. Les serveurs DNS et les noms de domaines sont des sortes d'annuaires. Les ports permettent d'identifier un service bien précis sur une machine.
+Un protocole définit comment les données sont envoyées entre deux machines.
+
+#### II - Équipements réseaux 
+Un switch est un appareil qui fait la communication entre plusieurs appareils sur un réseau. Il possède une liste de l'ensemble des adresses IP connectées sur le réseau.
+
+
+
+
+
+
+
+
 
 
