@@ -98,7 +98,9 @@ On distingue deux grands modes de tarification : **à l'utilisation** *Go/mois* 
 
 #### VI - Dimensionnement
 Un bon dimensionnement équilibre besoins métiers, ressources techniques et budget.
-Il faut bien définir du besoin métier jusqu'à l'infrastructure pendant le phasage du projet. Le recueil du besoin est une étape importante. Il faut également estimer lal volumétrie des ressources. Aussi, il faut prendre en compte la charge applicative edt l'évaluer. Il faut traduire les ressources matérielles. Les types d'hébergement et la préparation du développement jusq'à la production doivent être faits.
+Il faut bien définir du besoin métier jusqu'à l'infrastructure pendant le phasage du projet. Le recueil du besoin est une étape importante. Il faut également estimer la volumétrie des ressources. Aussi, il faut prendre en compte la charge applicative edt l'évaluer. Il faut traduire les ressources matérielles. Les types d'hébergement et la préparation du développement jusq'à la production doivent être faits.
+
+Green IT et éco-conception
 
 
 
