@@ -65,9 +65,16 @@ Un protocole définit comment les données sont envoyées entre deux machines.
 
 #### II - Équipements réseaux 
 Un switch est un appareil qui fait la communication entre plusieurs appareils sur un réseau. Il possède une liste de l'ensemble des adresses IP connectées sur le réseau.
+Un routeur permet d'interconnecter plusieurs réseaux, par exemple : un réseau local avec internet. Il segmente les différents réseaux.
+Un firewall permet de filtrer le trafic via des règles de sécurité. Soit il bloque les connexions non autorisées, soit il autorise uniquement le trafic nécessaire.
+Un serveur est un équipement qui fournit un ou plusieurs services réseau aux autres machines.
 
+#### III - Virtualisation
+C'est une technologie informatique permettant la création d'environnements informatiques isolés et flexibles au sein d'une seule machine physique.
+La virtualisation matérielle est un environnement virtuel qui fonctionne comme s'il s'agissait d'un ordinateur phyisque.
+Découper les machines virtuelles grâce à VMware.
 
-
+#### IV - Docker
 
 
 
