@@ -82,9 +82,19 @@ Le cloisonnement des applications consiste à isoler chaque application pour qu'
 Dans docker, il existe des images et des conteneurs. <br>
 - *Image* : package autonome qui inclut tout ce dont une application a besoin pour fonctionner, construite à partir d'un Dockerfile,décrivant étape par étape la création de l'image, base pour créer un conteneur.<br>
 - *Conteneur* : instance d'une image en cours d'exécution, environnement isolé et léger où l'appli tourne avec ses dépendances et partage le même noyau du syst. d'exploitation de l'hôte.
+<br>
+Docker compose est une appli qui permet de gérer du multiconteneur, il passe par la configuration d'un fichier yml.
 
-
-
+#### V - Hosting & Cloud
+Les Cloud providers proposent aussi des solutions de Cloud Computing. Ils permettent de déployer des services plus rapidement et plus facilement en interne.
+Les Clouds providers ont +ieurs services :
+- stockage,
+- serveur applicatif,
+- BDD,
+- VPN
+- DNS
+- ...
+On distingue deux grands modes de tarification : **à l'utilisation** *Go/mois* (serveur de stockage) ou **à l'heure** *puissance/heure* (serveur deproduction)
 
 
 
