@@ -50,3 +50,15 @@ STD : seules les données commerce, stationnement et arrêt de transport seront 
 Méthodologie de gestion de projet basée sur des courtes périodes de développement.
 On peut créer différentes méthodes de gestion de projet sur Jira, on va essayer la méthode Scrum. On peut définir le backlog.
 On va finalement essayer Notion car Jira a bloqué la création d'un site.
+
+
+# Gestion de projet - 07/04/25
+## Rappels et Acculturation IT
+FRANCK THUILLIER
+<br>
+
+#### I - Réseaux informatiques
+Modèle OSI : représentation théorique qui décompe les communications réseaux en 7 couches :
+![16225671036921_P2C5-2](https://github.com/user-attachments/assets/71f6ba8b-3cab-4087-b481-cd9d350e5e18)
+
+
