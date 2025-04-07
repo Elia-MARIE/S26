@@ -75,6 +75,16 @@ La virtualisation matérielle est un environnement virtuel qui fonctionne comme 
 Découper les machines virtuelles grâce à VMware.
 
 #### IV - Docker
+La conteneurisation en docker, contient l'application mais pas uniquement. Le conteneur embarque l'environnement entier de l'application (dépendances et variabbles de l'environnement). Ceci assure le bon fonctionnement de l'appli.
+Si +ieurs appli fonctionnent sur le même serveur, elles doivent partager des dépendances et des ressources. Si l'une d'elles disfonctionne, cela peut poser provoquer des conflits.
+Le cloisonnement des applications consiste à isoler chaque application pour qu'elle fonctionne indépendamment des autres.
+
+Dans docker, il existe des images et des conteneurs. <br>
+- *Image* : package autonome qui inclut tout ce dont une application a besoin pour fonctionner, construite à partir d'un Dockerfile,décrivant étape par étape la création de l'image, base pour créer un conteneur.<br>
+- *Conteneur* : instance d'une image en cours d'exécution, environnement isolé et léger où l'appli tourne avec ses dépendances et partage le même noyau du syst. d'exploitation de l'hôte.
+
+
+
 
 
 
