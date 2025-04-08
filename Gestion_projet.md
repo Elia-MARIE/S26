@@ -102,6 +102,25 @@ Il faut bien définir du besoin métier jusqu'à l'infrastructure pendant le pha
 
 Green IT et éco-conception
 
+# Gestion de projet - 08/04/25
+## Déploiement d'application - CI/CD
+FRANCK THUILLIER<br>
+
+#### I - Définitions
+*Méthode CI/CD* : permet de fiabiliser les mises en production, automatiser les tests, build et mise en ligne, réduire les bugs, livrer rapidement en confiance.
+![74-1](https://github.com/user-attachments/assets/915ff64e-5b8e-4ddc-9f6f-278374319cd9)
+GitLab est un des outils les plus utilisés pour la gestion des pipelines CI/CD.
+Exeercice sur GitLab
+
+
+
+
+
+
+
+
+
+
 
 
 
