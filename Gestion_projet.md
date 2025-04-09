@@ -107,8 +107,8 @@ Green IT et éco-conception
 FRANCK THUILLIER<br>
 
 #### I - Définitions
-*Méthode CI/CD* : permet de fiabiliser les mises en production, automatiser les tests, build et mise en ligne, réduire les bugs, livrer rapidement en confiance.
-![74-1](https://github.com/user-attachments/assets/915ff64e-5b8e-4ddc-9f6f-278374319cd9)
+*Méthode CI/CD* : permet de fiabiliser les mises en production, automatiser les tests, build et mise en ligne, réduire les bugs, livrer rapidement en confiance.<br>
+![74-1](https://github.com/user-attachments/assets/915ff64e-5b8e-4ddc-9f6f-278374319cd9)<br>
 GitLab est un des outils les plus utilisés pour la gestion des pipelines CI/CD.
 Exeercice sur GitLab
 
