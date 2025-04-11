@@ -11,7 +11,7 @@ RENAUD LAHAYE
   - assistance technique
 
 Pour évaluer les besoins, il faut identifier l'écart entre la compétence requise et la compétence réellement disponible des apprenants.
-Construire le programme en tenant compte des prérequis.
+Construire le programme en tenant compte des **prérequis**.
 On peut identifier les compétences pertinentes grâce à une matrice de domaines de formations & niveaux : formalisme de l'approche.
 
 #### Exercice
@@ -19,3 +19,10 @@ On peut identifier les compétences pertinentes grâce à une matrice de domaine
 ![2](https://github.com/user-attachments/assets/b60bcba3-259c-4d4a-99b8-beef64b8a8eb)
 ![3](https://github.com/user-attachments/assets/ce07aa7b-fc16-4f51-ae8d-fee6e83bd1d7)
 ![4](https://github.com/user-attachments/assets/5872ba3d-dea1-48d0-864d-cc50febdb955)
+<br>
+Il faut savoir quel sera le futur du support de formation (évolution, diffusion, ...) ainsi que le format dans lequel il est partagé.
+On parle de grain pédagogique, il faut pérenniser le support.
+Les supports de formation comprennent :
+- guide technique
+- support d'exercice
+- support théorique (en appui au guide technique)
