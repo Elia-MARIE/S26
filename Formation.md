@@ -6,7 +6,7 @@ RENAUD LAHAYE
 1- Recueil des besoins de la formation et analyse<br>
 2- Définition des objectifs de formation (évaluables)<br>
 3- Construction de l'action de formation<br>
-4- Animation de l'action de formation<br>
+4- Animation de l'action de formation
   - évaluation de la formation
   - assistance technique
 
