@@ -13,3 +13,10 @@ RENAUD LAHAYE
 Pour évaluer les besoins, il faut identifier l'écart entre la compétence requise et la compétence réellement disponible des apprenants.
 Construire le programme en tenant compte des prérequis.
 On peut identifier les compétences pertinentes grâce à une matrice de domaines de formations & niveaux : formalisme de l'approche.
+
+#### Exercice
+![1](https://github.com/user-attachments/assets/0ef90588-0654-4e79-bf94-27d34e8f700b)
+![2](https://github.com/user-attachments/assets/b60bcba3-259c-4d4a-99b8-beef64b8a8eb)
+
+<br>
+
